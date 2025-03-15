@@ -49,7 +49,13 @@
 </div>
 
 
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TrifingZW/SingularisInteraction&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TrifingZW/SingularisInteraction&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+</picture>
+</div>
 <div align="center">
   <!-- 星历时空隧道 -->
   <picture>
@@ -141,15 +147,23 @@ void RadiationShopping()
 [![TensorFlow][TF-badge]][TF-url]
 [![AWS][AWS-badge]][AWS-url]
 [![Azure][Azure-badge]][Azure-url]
+[![Kubernetes][K8s-badge]][K8s-url]
+[![Docker][Docker-badge]][Docker-url]
+[![Blender][Blender-badge]][Blender-url]
+[![Substance3D][Substance-badge]][Substance-url]
+[![Perforce][Perforce-badge]][Perforce-url]
+[![Slack][Slack-badge]][Slack-url]
+[![Trello][Trello-badge]][Trello-url]
+[![OBS][OBS-badge]][OBS-url]
 
 ###  插件依赖
 
   <!-- 技术生态 -->
   <a href="https://github.com/TrifingZW/SingularisInteraction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInteraction&theme=radical&show_owner=true" width="500" alt="">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInteraction&theme=radical&show_owner=true" width="400" alt="">
   </a>
   <a href="https://github.com/TrifingZW/SingularisVehicle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisVehicle&theme=merko&show_owner=true" width="500" alt="">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisVehicle&theme=merko&show_owner=true" width="400" alt="">
   </a>
 
 
@@ -315,6 +329,39 @@ void ContactUs() {
 
 [Azure-badge]: https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
 [Azure-url]: https://azure.microsoft.com
+
+[K8s-badge]: https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white
+[K8s-url]: https://kubernetes.io
+
+[Docker-badge]: https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com
+
+[Blender-badge]: https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white
+[Blender-url]: https://www.blender.org
+
+[Substance-badge]: https://img.shields.io/badge/Substance_3D-000000?style=flat-square&logo=adobesubstance&logoColor=white
+[Substance-url]: https://www.substance3d.com
+
+[Perforce-badge]: https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white
+[Perforce-url]: https://www.perforce.com
+
+[Slack-badge]: https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white
+[Slack-url]: https://slack.com
+
+[Trello-badge]: https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white
+[Trello-url]: https://trello.com
+
+[OBS-badge]: https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white
+[OBS-url]: https://obsproject.com
+
+[FMOD-badge]: https://img.shields.io/badge/FMOD-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUAAAAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx9Vq7oWAAAAG3RSTlMAECAwQFBgcICPn6+vv8/f7+9AQFBgcICPn6+vv8/f7+8jf6LDAAAAMklEQVR4Xm3IMQ4AIAwDwJYj+P8PswMRaVzVpd0V2HrQBb6qJqKJqCaiiagmoomoxhMAe2sL+1UfQ2QAAAAASUVORK5CYII=
+[FMOD-url]: https://www.fmod.com
+
+[Wwise-badge]: https://img.shields.io/badge/Wwise-0066B3?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUAAAAbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxtiseuyAAAAHHRSTlMAIDBAUGBwgI+fr7/P3+/vQEBAUGBwgI+fr7/P3+/vI3+iwAAAADZJREFUGNNjYIADJiYwYmJiZgYxWJhZWBhADFY2NnYQjYODk4sLROPm4eXjB9EEMILCwggADQwA0qAGHw3xq/QAAAAASUVORK5CYII=
+[Wwise-url]: https://www.audiokinetic.com
+
+[SPIR-V-badge]: https://img.shields.io/badge/SPIR--V-FFFFFF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5gUaCg4dXhVAPwAAAK5JREFUOMvNk7ENgDAMBM8WYQSWYAlGYAksgQlYghF4l8ASjMAQiSgJQlF+6VU6nXQnMwEwM1sAEWmBDrgBL1U9q2wAEBGJiH0iMgAnYAPWrPkCQESWrPkA7MAALFlzB1DVOWsWYATmrLkDqOqUNSMwAWPW3AFUdYyaHhiAIWvuAKo6RM0IdJXmH8C7eQEvVfXmJ6C2+QZ4An1I/Ad8VNUHKYw/5QAAAABJRU5ErkJggg==
+[SPIR-V-url]: https://www.khronos.org/spir
 
 [quantum-badge]: https://img.shields.io/badge/量子纠缠认证-辐射级-00ff00?logo=atom&logoColor=white&labelColor=228B22&style=for-the-badge
 [quantum-url]: https://wastelander.game/quantum-courier
