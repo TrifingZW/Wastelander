@@ -230,7 +230,7 @@ wastelander-cli dream-mod --vaporware=true --funding=未众筹
 [![量子纠缠认证][quantum-badge]][quantum-url]
 [![辐射蟑螂快递][roach-badge]][roach-url]
 
-> [!DANGER]  
+> [!WARNING]  
 > **警告：以下通道已被联邦通信委员会(FCC)认证为 "有趣但没用"**
 
 ```cpp
