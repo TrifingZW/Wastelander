@@ -225,20 +225,29 @@ wastelander-cli dream-mod --vaporware=true --funding=未众筹
 
 
 
+以下是可直接复制的完整Markdown代码：
+
 ## 📡 跨维度通讯协议（v2.3.3-beta）
 
 [![量子纠缠认证][quantum-badge]][quantum-url]
 [![辐射蟑螂快递][roach-badge]][roach-url]
+[![瓶盖经济][caps-badge]][caps-url]
+[![变种人快递][mutant-badge]][mutant-url]
+[![避难所认证][vault-badge]][vault-url]
 
 > [!WARNING]  
-> **警告：以下通道已被联邦通信委员会(FCC)认证为 "有趣但没用"**
+> **联邦通信委员会特别警告**  
+> 以下服务可能引发：  
+> - 计划外的肢体变异  
+> - 税务无人机突然求婚  
+> - 时间线分裂导致的记忆错乱  
 
 ```cpp
-// 废土通讯核心代码
-void ContactUs() {
-    while(true) {
-        SendMessage("SOS"); // 自动转换为购物广告
-        ReceiveRadiation(); // 附带免费基因突变
+// 通讯协议核心代码
+void SendMessage(string content) {
+    if (content.Contains("BUG")) {
+        SpawnRadroach(666); // 每报错一次生成666只辐射蟑螂
+        PlaySFX("婚庆进行曲"); 
     }
 }
 ```
@@ -246,36 +255,35 @@ void ContactUs() {
 ### 🛰️ 常规频段
 - **量子漂流瓶**  
   `TrifingZW@gmail.com`  
-  *（预计回复时间：1-7个太阳耀斑周期）*
+  *（附赠辐射尘签名认证，可能吸引变种人快递员）*
 
 - **短波嘶吼**  
   `131.452MHz ±0.05ppm`  
-  *（需自备生锈易拉罐天线）*
+  *（需用两个生锈易拉罐和一条变异蚯蚓制作天线）*
 
-### 📮 紧急协议
-- **摩尔斯电码按摩服务**  
-  `.-.. .. ...- . / ..-. --- .-. . ...- . .-.`  
-  *（连续发送3次将触发税务无人机关怀套餐）*
+### 📮 废土骑士团频段
+- **核弹快递单**  
+  `默茗@630602996.qq.pipboy`  
+  *（每次发送消耗3个瓶盖，可能触发避难所广播体操）*
 
-- **尸变体网络**  
-  在任意焚化炉前高喊"Intel YES!"  
-  *（可能召唤会修电脑的僵尸工程师）*
+- **战前邮件协议**  
+  `SisterLiya≡jingouwe53437169@126.mil`  
+  *（需附带1个未爆炸的核弹头作为邮资）*
 
-### 🤖 人工智障客服
-- **辐射热线**  
-  `+86-400-800-8800`  
-  *（AI智商受附近盖格计数器数值影响）*
+- **仿生鸟专线**  
+  `Elysia_Gwen#1678310645@vault-tec.bird`  
+  *（30%概率被死亡爪当点心截获）*
 
-- **全息鸽传书**  
-  向天空投掷3个瓶盖启动服务  
-  *（50%概率被变种人烧烤队截获）*
+### ☢️ 紧急协议
+- **尸体广播系统**  
+  在任意焚化炉播放《最炫民族风》  
+  *（召唤会修水管的僵尸工程师+税务审计员组合）*
 
-
-
-# 协议更新日志
-+ 新增会骂人的AI客服
-- 移除容易被税务局追踪的邮政地址
-  ! 量子邮件现在附带辐射尘签名
+> [!NOTE]  
+> **通讯安全须知**
+> - 所有邮件可能被改造成购物广告
+> - 超过100字自动转换为蟑螂求偶信号
+> - 附件大小超过1MB将生成迷你核爆
 
 
 
@@ -355,8 +363,17 @@ void ContactUs() {
 [SPIR-V-badge]: https://img.shields.io/badge/SPIR--V-FFFFFF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5gUaCg4dXhVAPwAAAK5JREFUOMvNk7ENgDAMBM8WYQSWYAlGYAksgQlYghF4l8ASjMAQiSgJQlF+6VU6nXQnMwEwM1sAEWmBDrgBL1U9q2wAEBGJiH0iMgAnYAPWrPkCQESWrPkA7MAALFlzB1DVOWsWYATmrLkDqOqUNSMwAWPW3AFUdYyaHhiAIWvuAKo6RM0IdJXmH8C7eQEvVfXmJ6C2+QZ4An1I/Ad8VNUHKYw/5QAAAABJRU5ErkJggg==
 [SPIR-V-url]: https://www.khronos.org/spir
 
-[quantum-badge]: https://img.shields.io/badge/量子纠缠认证-辐射级-00ff00?logo=atom&logoColor=white&labelColor=228B22&style=for-the-badge
+[quantum-badge]: https://img.shields.io/badge/量子纠缠认证-辐射级-00ff00?logo=atom&logoColor=white&labelColor=228B22&style=for-the-badge&logoWidth=30
 [quantum-url]: https://wastelander.game/quantum-courier
 
-[roach-badge]: https://img.shields.io/badge/辐射蟑螂快递-核废料次日达-000000?logo=github&logoColor=yellow&labelColor=4B3621&style=for-the-badge
+[roach-badge]: https://img.shields.io/badge/辐射蟑螂快递-核废料次日达-000000?logo=android&logoColor=yellow&labelColor=4B3621&style=for-the-badge&logoWidth=28
 [roach-url]: https://wastelander.game/roach-express
+
+[caps-badge]: https://img.shields.io/badge/瓶盖经济-硬通货-FFD700?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADLSURBVDhPY2CgM7h69WogEhwjVl5SUvL/4cOH/0kFqGqgC5w5c+Y/3EBUQKqBQHVEuwBdI1EG4tJElIE4NRBlILpGggbi0kC0gaga8RqISwPJLsBpIC4NRLsAVSNOA3FpIMkFqBqxGoivDBHtAlSNGAaC0gKuMkSSgaB0gWogvjJEkgtQNWIYiK8MkeQCVCCqBl8ZItkFqEBUDb4yRJYLUIGoGnxlCBWQ5QJUQNSgA1kuQAWiatDLEDogywWogKgBDmS5ABUQNcABAPSPbCQeM4rDAAAAAElFTkSuQmCC&style=for-the-badge
+[caps-url]: https://wastelander.game/caps-economy
+
+[mutant-badge]: https://img.shields.io/badge/变种人快递-生鲜专线-FF4500?logo=raspberry-pi&logoColor=white&style=for-the-badge
+[mutant-url]: https://wastelander.game/mutant-delivery
+
+[vault-badge]: https://img.shields.io/badge/避难所认证-13号舱室-00BFFF?logo=fortinet&logoColor=white&style=for-the-badge
+[vault-url]: https://wastelander.game/vault-13
