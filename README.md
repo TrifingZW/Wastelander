@@ -1,10 +1,29 @@
 <div align="center">
-  <!-- 动态全息LOGO -->
-  <img src="https://media.giphy.com/media/UVs7Ql1tyVU3Oc6X5C/giphy.gif" width="150px" alt="放射性脉冲动画">
 
-  <h1>WASTELANDER</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=600&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🌪️+废土法则的终极演绎;⚡+双核引擎驱动的生存革命;🔥+基于+Singularis+生态系统的次世代体验" alt="动态标题">
+  <a href="https://github.com/TrifingZW/Wastelander">
+    <img src="icon.png" alt="Wastelander Logo" width="120" height="120">
+  </a>
 
+ <h1>WASTELANDER</h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=600&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🌪️+废土法则的终极演绎;⚡+双核引擎驱动的生存革命;🔥+基于+Singularis+生态系统的次世代体验" alt="动态描述">
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/TrifingZW/Wastelander/wiki"><strong>📜 废土生存手册 »</strong></a>
+    <br />
+    <br />
+    <a href="https://store.epicgames.com/zh-CN/p/wastelander">🎮 立即体验</a>
+    &middot;
+    <a href="https://wastelander.game/media">📽️ 幕后花絮</a>
+    &middot;
+    <a href="https://mods.wastelander.game">🧩 模组工坊</a>
+  </p>
+
+</div>
+
+
+
+<div align="center">
   <!-- 量子纠缠式依赖矩阵 -->
   <div>
     <a href="https://github.com/TrifingZW/SingularisInteraction">
@@ -14,216 +33,291 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Singularis_Vehicle-FF4500.svg?logo=vehicle_icon&style=for-the-badge" alt="载具核心">
     </a>
   </div>
-
-  <!-- 实时构建网络 -->
-  <img src="https://readme-matrix.vercel.app/api/matrix?theme=cyberpunk&repo=Wastelander&repo=SingularisInteraction&repo=SingularisVehicle&show_dependencies=true" width="800">
+  <div>
+    <img src="https://img.shields.io/badge/STEAM-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    <img src="https://img.shields.io/badge/EPIC%20GAMES-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic">
+    <img src="https://img.shields.io/badge/XBOX-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
+    <img src="https://img.shields.io/badge/Metacritic-6FC04A?style=for-the-badge&logo=metacritic&logoColor=white&color=000000" alt="Metacritic">
+  </div>
+  <div>
+    <a href="https://github.com/TrifingZW/Wastelander/graphs/contributors"><img src="https://img.shields.io/github/contributors/TrifingZW/Wastelander.svg?style=for-the-badge" alt="Contributors"></a>
+    <a href="https://github.com/TrifingZW/Wastelander/forks"><img src="https://img.shields.io/github/forks/TrifingZW/Wastelander.svg?style=for-the-badge" alt="Forks"></a>
+    <a href="https://github.com/TrifingZW/Wastelander/stargazers"><img src="https://img.shields.io/github/stars/TrifingZW/Wastelander.svg?style=for-the-badge" alt="Stargazers"></a>
+    <a href="https://github.com/TrifingZW/Wastelander/issues"><img src="https://img.shields.io/github/issues/TrifingZW/Wastelander.svg?style=for-the-badge" alt="Issues"></a>
+    <a href="https://github.com/TrifingZW/Wastelander/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TrifingZW/Wastelander.svg?style=for-the-badge" alt="License"></a>
+  </div>
 </div>
+
+
 
 <div align="center">
   <!-- 星历时空隧道 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date" />
     <img alt="Star History" src="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date" width="800">
   </picture>
 </div>
 
-## 🌌 核心架构
 
-```mermaid
-flowchart TD
-    A[Wastelander] --> B{{SingularisInteraction}}
-    A --> C{{SingularisVehicle}}
-    
-    B --> D[量子感知系统]
-    B --> E[动态环境交互]
-    B --> F[神经网络决策]
-    
-    C --> G[纳米重组引擎]
-    C --> H[辐射动力核心]
-    C --> I[时空折叠移动]
-    
-    D --> J[实时物体追踪]
-    E --> K[物理破坏模拟]
-    F --> L[自主NPC行为]
-    G --> M[载具形态转换]
-    H --> N[永久能源供应]
-    I --> O[跨维度跃迁]
+
+## ☢️ 废土拾荒者生存手册
+
+**《WASTELANDER 废土客》** - 用购物车搬运核文明的多人摸金派对
+
+```cpp
+// 废土第一定律
+void RadiationShopping()
+{
+    if (Player.Find("总统金马桶")) 
+    {
+        SpawnTaxCollector(); // 联邦税务局特供追猎服务
+        PlayAudio("星条旗永不落"); // 掠夺者开饭号角
+    }
+}
 ```
 
-## 🧬 技术基因
+### ⚠️ 硬核拾荒流程
+> [!WARNING]  
+> **虚假安全点检测**  
+> 所有标有"宜家"的坐标都会在降落时变成变种人主题乐园
 
-<div align="center">
-  <!-- 三维技术栈 -->
-  <img src="https://tech-stack-cube.vercel.app/api/cube?layers=UE5|C++20|QuantumCore|NeuralCompiler|RTX|ChaosPhysics&theme=cyberpunk" width="600">
+- **赌命降落**：在「宜家变种人巢穴」和「免费WiFi陷阱」中选择死亡坐标
+- **废铁武装**：将火箭焊在超市购物车上（时速8km/每30秒脱落零件）
+
+> [!IMPORTANT]  
+> **末日交通法**  
+> 若选择留人看船，务必带走所有方向盘——这是废土基本礼仪
+
+- **死亡采购**：
+    - 收集会爆炸的保险箱（附赠税务无人机快递）
+    - 解剖尖叫者获取声带（可改装车载喇叭）
+
+> [!WARNING]  
+> **午夜特别服务**  
+> 尸体转职售货机后，扫码骂街功能可能导致电子坟场DDoS攻击
+
+### 🗑️ 废土经济学
+- **瓶盖霸权**  
+  队友的机械义肢=周三半价  
+  未拆封核弹=3个扭蛋玩具+1瓶过期核子可乐
+
+> [!NOTE]  
+> **联邦法律小贴士**  
+> 用核弹交易扭蛋属于合法避税行为，但请保留收据以备审计
+
+- **移动棺材改装**  
+  拆除刹车片解锁「火箭车」成就  
+  涂装红漆获得心理加速(+5%幻觉速度)
+
+> [!WARNING]  
+> **保险公司免责条款**  
+> 红漆加速效果可能导致：
+> - 误判掠夺者数量
+> - 把枯树看作前女友
+> - 试图亲吻地雷
+
+- **公司关怀套餐**  
+  连续3次团灭触发「废物回收局」羞辱邮件  
+  载具坠毁需提交轮胎齿痕鉴定报告
+
+**Powered by Unreal Engine 5 & 500吨黑色幽默**
+
+
+
+## 🛠️ 技术架构
+
+[![UnrealEngine5][UE5-badge]][UE5-url]
+[![C++][CPP-badge]][CPP-url]
+[![C#][CS-badge]][CS-url]
+[![.NET][DOTNET-badge]][DOTNET-url]
+[![NvidiaDLSS][DLSS-badge]][DLSS-url]
+[![MetaHuman][Metahuman-badge]][Metahuman-url]
+[![ChaosPhysics][Chaos-badge]][Chaos-url]
+[![Rider][Rider-badge]][Rider-url]
+[![VisualStudio][VS-badge]][VS-url]
+[![Git][Git-badge]][Git-url]
+[![Python][Python-badge]][Python-url]
+[![TensorFlow][TF-badge]][TF-url]
+[![AWS][AWS-badge]][AWS-url]
+[![Azure][Azure-badge]][Azure-url]
+
+###  插件依赖
 
   <!-- 技术生态 -->
   <a href="https://github.com/TrifingZW/SingularisInteraction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInteraction&theme=radical&show_owner=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInteraction&theme=radical&show_owner=true" width="500" alt="">
   </a>
   <a href="https://github.com/TrifingZW/SingularisVehicle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisVehicle&theme=merko&show_owner=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisVehicle&theme=merko&show_owner=true" width="500" alt="">
   </a>
-</div>
 
-## 🚀 量子化部署
+
+
+## 🚀 快速开始
+
+### 最低配置
+
+```yaml
+Operating System: Windows 10 64-bit
+Processor: Intel Core i5-8400 / AMD Ryzen 3 3300X
+Memory: 12 GB RAM
+Graphics: NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580
+Storage: 90 GB SSD
+Special Notes: 需要支持Mesh Shaders的GPU
+```
+
+### 推荐体验
+
+```yaml
+Operating System: Windows 11 64-bit
+Processor: Intel Core i7-11700K / AMD Ryzen 7 5800X3D
+Memory: 32 GB DDR5
+Graphics: NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XTX
+Storage: 90 GB NVMe SSD
+Peripherals: 支持触觉反馈的防毒面具外设（可选）
+```
+
+
+
+## 🧬 模组开发（蓝图构想）
+
+> [!CAUTION]  
+> **来自未来的废土科技**  
+> 以下为概念规划内容，实际功能将在核冬天结束后第114514个太阳周期实装
+
+我们正在用辐射蟑螂编写 **Wastelander Development Kit (WDK)**：
+
+- 🧪 放射性物质扩散模拟API *（目前仅能模拟咖啡泼洒效果）*
+- ⚡ 实时天气系统控制台 *（当前只有"沙尘暴"和"更猛的沙尘暴"）*
+- 🧠 NPC行为树编辑器 *（测试版会让人工智障跳钢管舞）*
+- 💀 变异效果蓝图系统 *（小心生成会喊"AMD YES!"的螃蟹人）*
 
 ```bash
-# 克隆主仓库（含子模块）
-git clone --recurse-submodules https://github.com/TrifingZW/Wastelander.git
-
-# 中国用户加速模式
-git clone --recurse-submodules https://ghproxy.com/https://github.com/TrifingZW/Wastelander.git
-
-# 验证量子签名
-./wastelander.sh --verify-signature \
-    --interaction-core=SingularisInteraction.runtime \
-    --vehicle-core=SingularisVehicle.engine
+# 当前伪代码演示（需要想象力驱动）
+wastelander-cli dream-mod --vaporware=true --funding=未众筹
 ```
 
-<div align="center">
-  <!-- 依赖关系全息图 -->
-  <img src="https://dependency-sphere.vercel.app/api/graph?repos=Wastelander,SingularisInteraction,SingularisVehicle&depth=3&theme=neon" width="650">
-</div>
 
-## 🧪 生存协议
 
-```diff
-+ 推荐基因组合：
-# SingularisInteraction ≥2.3.0
-# SingularisVehicle ≥1.8.0
-! 使用 nightly-build 版本可获得量子加速
+## 🤝 加入我们
 
-- 危险配置警告：
-! 避免混合使用不同大版本的核心组件
-! 禁用非官方修改的插件副本
-```
+<a href="https://github.com/TrifingZW/Wastelander/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TrifingZW/Wastelander&max=500&columns=8"  alt="贡献者网络"/>
+</a>
 
-<table align="center">
-  <tr>
-    <td>
-      <!-- 实时生存仪表盘 -->
-      <img src="https://realtime-perf-dashboard.vercel.app/api/panel?metrics=RadiationLevel|MutationRate|VehicleDurability|AIIntelligence&theme=wasteland" width="400">
-    </td>
-    <td>
-      <!-- 突变协议矩阵 -->
-      <table>
-        <tr><th>突变类型</th><th>交互影响</th><th>载具影响</th></tr>
-        <tr><td>放射性进化</td><td>量子视觉+</td><td>核动力激活</td></tr>
-        <tr><td>机械融合</td><td>神经带宽↑</td><td>合体协议解锁</td></tr>
-        <tr><td>时间悖论</td><td>预知能力</td><td>折叠移动</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
-## 🌀 时空演进路线
 
-```mermaid
-gantt
-    title 生态演进时间线
-    dateFormat  YYYY-MM
-    axisFormat  %Y-%m
-    
-    section 量子阶段
-    交互核心2.0      :done, 2023-11, 2024-01
-    载具核心1.5      :done, 2023-12, 2024-02
-    
-    section 奇点阶段
-    神经接口3.0     :active, 2024-03, 2024-05
-    时间晶体存储    :2024-04, 2024-06
-    
-    section 超限阶段
-    意识上传协议    :2024-07, 2024-09
-    平行宇宙同步    :2024-08, 2025-01
-```
+## 📜 授权协议
 
-<div align="center">
-  <!-- 全息贡献网络 -->
-  <img src="https://holo-contributors.vercel.app/api/network?repos=Wastelander,SingularisInteraction,SingularisVehicle&theme=matrix" width="800">
-</div>
+**核战后的世界没有版权** - 所有代码、资产和设计遵循 [Post-Apocalyptic Open License (PAOL)](https://wastelander.game/license)，允许你：
 
-## ☢️ 辐射协议
+- ☣️ 将游戏代码植入军用无人机
+- 🧬 用角色DNA克隆现实生物
+- 🌫️ 在真实核废墟中复刻游戏场景
+- 🔥 用游戏引擎控制微波炉加热泡面
 
-```nuspec
-<!-- 量子通信规范 -->
-<QuantumLink>
-  <CoreDependencies>
-    <Package name="SingularisInteraction" version="2.3.0" />
-    <Package name="SingularisVehicle" version="1.8.0" />
-  </CoreDependencies>
-  
-  <RadiationProtocol>
-    <MutationThreshold>5000rad</MutationThreshold>
-    <SafeZones>3</SafeZones>
-    <AIBehaviorMode>SurvivalInstinct</AIBehaviorMode>
-  </RadiationProtocol>
-</QuantumLink>
-```
 
-## 🧩 实验室模式
 
-```bash
-# 解锁开发者次元
-./wastelander-cli enable-labs \
-    --quantum-debugger \
-    --neural-sync=llama3-8b \
-    --temporal-rift
-```
+## 📡 跨维度通讯协议（v2.3.3-beta）
 
-<div align="center">
-  <!-- 动态代码沙盘 -->
-  <details>
-  <summary>🕹️ 点击展开量子沙盒</summary>
+[![量子纠缠认证][quantum-badge]][quantum-url]
+[![辐射蟑螂快递][roach-badge]][roach-url]
 
-  ```lua
-  --[[
-    🧬 基因重组模拟器
-    按数字键切换不同突变模式
-  ]]
-  function simulateMutation()
-    local mutations = {
-      { type="Radioactive", code=1, effect={ vision=0.8, speed=1.2 }},
-      { type="Mechanical", code=2, effect={ armor=2.5, agility=0.7 }},
-      { type="Temporal", code=3, effect={ precog=true, fuel=0 }}
+> [!DANGER]  
+> **警告：以下通道已被联邦通信委员会(FCC)认证为 "有趣但没用"**
+
+```cpp
+// 废土通讯核心代码
+void ContactUs() {
+    while(true) {
+        SendMessage("SOS"); // 自动转换为购物广告
+        ReceiveRadiation(); // 附带免费基因突变
     }
-    
-    for _, mutation in ipairs(mutations) do
-      print(string.format("[%d] %s 突变", mutation.code, mutation.type))
-    end
-    
-    if VRController.active then
-      print("👆 手势选择突变类型")
-      print("🤏 捏合手势确认选择")
-    end
-  end
-  ```
-  <img src="https://media.giphy.com/media/3o7btT1T9qpQZWhNl6/giphy.gif" width="400">
-  </details>
-</div>
+}
+```
 
-## 📮 跨维通讯
+### 🛰️ 常规频段
+- **量子漂流瓶**  
+  `TrifingZW@gmail.com`  
+  *（预计回复时间：1-7个太阳耀斑周期）*
 
-```diff
-+ 常规联系方式：
-- 量子邮件：TrifingZW@wastelander.game
-- 死信信箱：北京第88号邮政信箱
+- **短波嘶吼**  
+  `131.452MHz ±0.05ppm`  
+  *（需自备生锈易拉罐天线）*
 
-! 紧急协议：
-# 摩尔斯电码：.-.. .. ...- . / ..-. --- .-. . ...- . .-. 
-# 短波频率：131.452MHz ±0.05ppm
-``` 
+### 📮 紧急协议
+- **摩尔斯电码按摩服务**  
+  `.-.. .. ...- . / ..-. --- .-. . ...- . .-.`  
+  *（连续发送3次将触发税务无人机关怀套餐）*
 
-<div align="center">
-  <!-- 量子下载波形 -->
-  <img src="https://quantum-download-counter.vercel.app/api/wave?repos=Wastelander,SingularisInteraction,SingularisVehicle&colors=7F00FF,FF6347,00BFFF" width="800">
-</div>
+- **尸变体网络**  
+  在任意焚化炉前高喊"Intel YES!"  
+  *（可能召唤会修电脑的僵尸工程师）*
+
+### 🤖 人工智障客服
+- **辐射热线**  
+  `+86-400-800-8800`  
+  *（AI智商受附近盖格计数器数值影响）*
+
+- **全息鸽传书**  
+  向天空投掷3个瓶盖启动服务  
+  *（50%概率被变种人烧烤队截获）*
 
 
 
-[comment]: # (保留原始链接定义)
-[UnrealEngine-Shield]: https://img.shields.io/badge/UE5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
-[UnrealEngine-Url]: https://www.unrealengine.com
-[PluginInteraction-Url]: https://github.com/TrifingZW/SingularisInteraction
-[PluginVehicle-Url]: https://github.com/TrifingZW/SingularisVehicle
-[Cpp-Shield]: https://img.shields.io/badge/C++17-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[Cpp-Url]: https://isocpp.org/
+# 协议更新日志
++ 新增会骂人的AI客服
+- 移除容易被税务局追踪的邮政地址
+  ! 量子邮件现在附带辐射尘签名
+
+
+
+<!-- 徽章链接定义 -->
+[UE5-badge]: https://img.shields.io/badge/UE5-313131?style=flat-square&logo=unrealengine&logoColor=white
+[UE5-url]: https://www.unrealengine.com
+
+[CPP-badge]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
+[CPP-url]: https://isocpp.org
+
+[CS-badge]: https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white
+[CS-url]: https://docs.microsoft.com/dotnet/csharp
+
+[DOTNET-badge]: https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white
+[DOTNET-url]: https://dotnet.microsoft.com
+
+[DLSS-badge]: https://img.shields.io/badge/DLSS_4.0-76B900?style=flat-square&logo=nvidia&logoColor=white
+[DLSS-url]: https://www.nvidia.com
+
+[Metahuman-badge]: https://img.shields.io/badge/MetaHuman-00A3E0?style=flat-square&logo=adobe&logoColor=white
+[Metahuman-url]: https://www.unrealengine.com/metahuman
+
+[Chaos-badge]: https://img.shields.io/badge/Chaos_Physics-FF0000?style=flat-square&logo=unrealengine&logoColor=white
+[Chaos-url]: https://docs.unrealengine.com/5.3/en-US/chaos-physics-overview-in-unreal-engine/
+
+[Rider-badge]: https://img.shields.io/badge/Rider-000000?style=flat-square&logo=jetbrains&logoColor=white
+[Rider-url]: https://www.jetbrains.com/rider/
+
+[VS-badge]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white
+[VS-url]: https://visualstudio.microsoft.com
+
+[Git-badge]: https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+[Git-url]: https://git-scm.com
+
+[Python-badge]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+[Python-url]: https://www.python.org
+
+[TF-badge]: https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
+[TF-url]: https://www.tensorflow.org
+
+[AWS-badge]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
+[AWS-url]: https://aws.amazon.com
+
+[Azure-badge]: https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
+[Azure-url]: https://azure.microsoft.com
+
+[quantum-badge]: https://img.shields.io/badge/量子纠缠认证-辐射级-00ff00?logo=atom&logoColor=white&labelColor=228B22&style=for-the-badge
+[quantum-url]: https://wastelander.game/quantum-courier
+
+[roach-badge]: https://img.shields.io/badge/辐射蟑螂快递-核废料次日达-000000?logo=github&logoColor=yellow&labelColor=4B3621&style=for-the-badge
+[roach-url]: https://wastelander.game/roach-express
