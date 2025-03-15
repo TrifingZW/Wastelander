@@ -49,21 +49,7 @@
 </div>
 
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TrifingZW/SingularisInteraction&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TrifingZW/SingularisInteraction&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
-</picture>
-</div>
-<div align="center">
-  <!-- 星历时空隧道 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date" />
-    <img alt="Star History" src="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date" width="800">
-  </picture>
-</div>
+
 <div align="center">
   <!-- 强制锁定暗黑主题 -->
   <img alt="Star History" 
