@@ -229,7 +229,6 @@ wastelander-cli dream-mod --vaporware=true --funding=未众筹
 
 ## 📡 跨维度通讯协议（v2.3.3-beta）
 
-[![量子纠缠认证][quantum-badge]][quantum-url]
 [![辐射蟑螂快递][roach-badge]][roach-url]
 [![瓶盖经济][caps-badge]][caps-url]
 [![变种人快递][mutant-badge]][mutant-url]
@@ -362,9 +361,6 @@ void SendMessage(string content) {
 
 [SPIR-V-badge]: https://img.shields.io/badge/SPIR--V-FFFFFF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5gUaCg4dXhVAPwAAAK5JREFUOMvNk7ENgDAMBM8WYQSWYAlGYAksgQlYghF4l8ASjMAQiSgJQlF+6VU6nXQnMwEwM1sAEWmBDrgBL1U9q2wAEBGJiH0iMgAnYAPWrPkCQESWrPkA7MAALFlzB1DVOWsWYATmrLkDqOqUNSMwAWPW3AFUdYyaHhiAIWvuAKo6RM0IdJXmH8C7eQEvVfXmJ6C2+QZ4An1I/Ad8VNUHKYw/5QAAAABJRU5ErkJggg==
 [SPIR-V-url]: https://www.khronos.org/spir
-
-[quantum-badge]: https://img.shields.io/badge/量子纠缠认证-辐射级-00ff00?logo=atom&logoColor=white&labelColor=228B22&style=for-the-badge&logoWidth=30
-[quantum-url]: https://wastelander.game/quantum-courier
 
 [roach-badge]: https://img.shields.io/badge/辐射蟑螂快递-核废料次日达-000000?logo=android&logoColor=yellow&labelColor=4B3621&style=for-the-badge&logoWidth=28
 [roach-url]: https://wastelander.game/roach-express
