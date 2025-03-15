@@ -64,6 +64,12 @@
     <img alt="Star History" src="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date" width="800">
   </picture>
 </div>
+<div align="center">
+  <!-- 强制锁定暗黑主题 -->
+  <img alt="Star History" 
+       src="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date&theme=dark" 
+       width="800">
+</div>
 
 
 
