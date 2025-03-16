@@ -1,0 +1,12 @@
+[submodule "Plugins/SingularisInteraction"]
+	path = Plugins/SingularisInteraction
+	url = https://github.com/TrifingZW/SingularisInteraction
+[submodule "Plugins/SingularisVehicle"]
+	path = Plugins/SingularisVehicle
+	url = https://github.com/TrifingZW/SingularisVehicle.git
+[submodule "Plugins/SingularisWeapon"]
+	path = Plugins/SingularisWeapon
+	url = https://github.com/TrifingZW/SingularisWeapon.git
+[submodule "Plugins/SingularisInventory"]
+	path = Plugins/SingularisInventory
+	url = https://github.com/TrifingZW/SingularisInventory.git
