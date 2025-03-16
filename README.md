@@ -53,7 +53,7 @@
 <div align="center">
   <!-- 强制锁定暗黑主题 -->
   <img alt="Star History" 
-       src="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle&type=Date&theme=dark" 
+       src="https://api.star-history.com/svg?repos=TrifingZW/Wastelander,TrifingZW/SingularisInteraction,TrifingZW/SingularisVehicle,TrifingZW/SingularisWeapon,TrifingZW/SingularisInventory&type=Date&theme=dark" 
        width="800">
 </div>
 
