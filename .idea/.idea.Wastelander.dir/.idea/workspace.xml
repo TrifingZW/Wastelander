@@ -8,7 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64a579a8-acde-4809-88a2-635872cc68c1" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wastelander.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wastelander.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,12 @@
     &quot;accountId&quot;: &quot;bc463464-3ee8-4551-b35c-1baaca7e4b95&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Plugins/SingularisInventory/Source/SingularisInventory/SingularisInventory.Build.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -145,6 +152,9 @@
       <workItem from="1738343538642" duration="51000" />
       <workItem from="1741980108995" duration="2275000" />
       <workItem from="1742032284881" duration="4265000" />
+      <workItem from="1742116888399" duration="18000" />
+      <workItem from="1742116914083" duration="1419000" />
+      <workItem from="1742118429911" duration="1146000" />
     </task>
     <servers />
   </component>
