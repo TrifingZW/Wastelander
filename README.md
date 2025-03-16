@@ -150,13 +150,21 @@ void RadiationShopping()
 
 ###  插件依赖
 
-  <!-- 技术生态 -->
-  <a href="https://github.com/TrifingZW/SingularisInteraction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInteraction&theme=radical&show_owner=true" width="400" alt="">
-  </a>
-  <a href="https://github.com/TrifingZW/SingularisVehicle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisVehicle&theme=merko&show_owner=true" width="400" alt="">
-  </a>
+<!-- 第一行 -->
+<a href="https://github.com/TrifingZW/SingularisInteraction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInteraction&theme=vision-friendly-dark&show_owner=true&show_icons=true&icon_color=58a6ff&layout=compact" width="400" alt="交互系统">
+</a>
+<a href="https://github.com/TrifingZW/SingularisVehicle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisVehicle&theme=merko&show_owner=true&show_icons=true&include_all_commits=true" width="400" alt="载具系统">
+</a>
+
+<!-- 第二行 -->
+<a href="https://github.com/TrifingZW/SingularisWeapon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisWeapon&theme=gruvbox&show_owner=true&count_private=true&line_height=33" width="400" alt="武器系统">
+</a>
+<a href="https://github.com/TrifingZW/SingularisInventory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrifingZW&repo=SingularisInventory&theme=onedark&show_owner=true&show_icons=true&icon_color=FFD700" width="400" alt="库存系统">
+</a>
 
 
 
