@@ -17,7 +17,8 @@ public class Wastelander : ModuleRules
 				"InputCore",
 				"EnhancedInput",
 				"SingularisInteraction",
-				"SingularisVehicle"
+				"SingularisVehicle",
+				"SingularisInventory"
 			]
 		);
 
