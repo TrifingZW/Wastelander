@@ -13,6 +13,7 @@
 #include "GameFramework/PlayerController.h"
 #include "EntityAreaPlayerController.generated.h"
 
+class UInventoryManager;
 class UInteractionManager;
 class UInteractionWidget;
 
@@ -25,12 +26,17 @@ class AEntityAreaPlayerController : public APlayerController
 	GENERATED_BODY()
 
 public:
+#pragma region 组件实例
+	UPROPERTY(EditInstanceOnly, BlueprintReadOnly, Category = "交互属性", meta=(EditHide))
+	UInteractionManager* InteractionManager = nullptr; // 交互管理器实例
+
+	UPROPERTY(EditInstanceOnly, BlueprintReadOnly, Category = "库存属性", meta=(EditHide))
+	UInventoryManager* InventoryManager = nullptr; // 库存管理器实例
+# pragma endregion
+
 	AEntityAreaPlayerController();
 
 	virtual void Tick(float DeltaSeconds) override;
-
-	UPROPERTY(EditInstanceOnly, BlueprintReadOnly, Category = "交互实例", meta=(EditHide))
-	UInteractionManager* InteractionManager = nullptr; // 交互管理器实例
 
 protected:
 	virtual void BeginPlay() override;

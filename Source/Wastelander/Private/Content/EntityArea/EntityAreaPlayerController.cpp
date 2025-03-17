@@ -8,13 +8,18 @@
  * ===================================================================== */
 
 #include "EntityAreaPlayerController.h"
-#include "InteractionManager.h"
+
+#include <InteractionManager.h>
+#include <InventoryManager.h>
 
 AEntityAreaPlayerController::AEntityAreaPlayerController()
 {
 	// 创建交互管理器实例
 	InteractionManager = CreateDefaultSubobject<UInteractionManager>(TEXT("InteractionManager"));
-	InteractionManager->SetupAttachment(GetRootComponent());
+	InteractionManager->SetupAttachment(GetRootComponent()); // 场景组件需要附加
+
+	// 创建库存管理器实例
+	InventoryManager = CreateDefaultSubobject<UInventoryManager>(TEXT("InventoryManager"));
 }
 
 void AEntityAreaPlayerController::Tick(const float DeltaSeconds)
