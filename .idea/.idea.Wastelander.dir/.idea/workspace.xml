@@ -9,7 +9,12 @@
   <component name="ChangeListManager">
     <list default="true" id="64a579a8-acde-4809-88a2-635872cc68c1" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Wastelander.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wastelander.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_EntityArea_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_EntityArea_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/EntityArea/D/FG/7Q52N9CL93TNS1H8Q8NIEI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Level/EntityArea/D/FG/7Q52N9CL93TNS1H8Q8NIEI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/SingularisInteraction" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/SingularisInteraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/SingularisInventory" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/SingularisInventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/SingularisWeapon" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/SingularisWeapon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Wastelander/Wastelander.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Wastelander/Wastelander.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,21 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Plugins/SingularisInventory/Source/SingularisInventory/SingularisInventory.Build.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_5.5/Engine/Source/Developer/Apple/MetalShaderFormat/MetalShaderFormat.Build.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/AVEncoder/Private/VideoEncoderInput.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Templates/UnrealTemplate.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/CoreUObject/Public/UObject/SparseDelegate.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_5.5/Engine/Source/ThirdParty/RapidJSON/1.1.0/rapidjson/rapidjson.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/SingularisInventory/Source/SingularisInventory/SingularisInventory.Build.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -50,22 +69,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Uproject.Wastelander.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Uproject.Wastelander.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C/C++&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Wastelander" type="Uproject" factoryName="rider.uproject">
       <configuration_1 setup="1">
@@ -157,7 +176,12 @@
       <workItem from="1742116914083" duration="1419000" />
       <workItem from="1742118429911" duration="1146000" />
       <workItem from="1742121974268" duration="57000" />
-      <workItem from="1742122038822" duration="1098000" />
+      <workItem from="1742122038822" duration="19296000" />
+      <workItem from="1742147038088" duration="7267000" />
+      <workItem from="1742154489576" duration="3405000" />
+      <workItem from="1742157934825" duration="4540000" />
+      <workItem from="1742205067501" duration="524000" />
+      <workItem from="1742205710181" duration="7930000" />
     </task>
     <servers />
   </component>
